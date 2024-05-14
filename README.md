@@ -10,5 +10,5 @@ peptides displayed by MHC proteins is crucial for the development of immunothera
 stimulate the immune system to target cancer cells. By targeting specific peptides with
 immunotherapies, the immune system can distinguish and attack cancer cells while leaving healthy
 cells unharmed. This approach may prove to be more effective and less toxic than conventional
-cancer treatments. To this end, this repo consists of a proposed an ensemble based classifier approach that can predict if a
+cancer treatments. To this end, this repo consists of a proposed ensemble based classifier that can predict if a
 given peptide will be presented by a specific MHC1 protein, identified by its allele name.
